@@ -44,3 +44,6 @@ Answer the following questions based on your understanding of the installation a
 - Submit your completed assignment by 1st July 
 
 ASSINGMENT LINK:https://drive.google.com/file/d/1llGdl2aSa3qOGAhekmvMugHHZVVsumCD/view?usp=sharing
+
+
+ASSINGMENT 2:Assignment 2: Installation and Navigation of Visual Studio Code (VS Code)
